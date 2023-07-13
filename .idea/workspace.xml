@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dd05cce-ff57-4774-9742-59c5e5277eb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/poo/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/exesiga/Documents/Projets/Poo Simplon",
+    "last_opened_file_path": "/home/exesiga/Documents/Projets/Poo Simplon/Vehicule",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689252774648</updated>
-      <workItem from="1689252779479" duration="590000" />
+      <workItem from="1689252779479" duration="1249000" />
+      <workItem from="1689254791955" duration="36000" />
     </task>
     <servers />
   </component>

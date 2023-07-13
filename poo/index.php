@@ -155,4 +155,9 @@ echo $moi->getAge();
 echo '<br>';
 
 
+$tintin -> donnerFriandise($milou);
+$tintin -> frappeChien($milou);
+
+
+
 
